@@ -31,11 +31,6 @@ U1_File = args.undetermined_R1
 U2_File = args.undetermined_R2
 Index_File = args.known_indexes
 
-##### !!!!!DELETE LATER!!!!! #####
-U1_File = "Undetermined_R1_First100.fastq.gz"
-U2_File = "Undetermined_R2_First100.fastq.gz"
-Index_File = "index_seq.txt"
-
 #Define global variables
 input_files = [U1_File, U2_File]
 unknown_files = ["Unknown_R1.fastq", "Unknown_R2.fastq"]

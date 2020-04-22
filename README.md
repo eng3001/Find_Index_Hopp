@@ -11,4 +11,4 @@
 
 Example Run:
 
-```python3 Sort_Undetermined_V3.py -U1 Undetermined_S0_L008_R1_001.fastq.gz -U2 Undetermined_S0_L008_R2_001.fastq.gz -I seq_indexes.txt```
+```python3 Identify_Index_Swap.py -U1 Undetermined_S0_L008_R1_001.fastq.gz -U2 Undetermined_S0_L008_R2_001.fastq.gz -I seq_indexes.txt```

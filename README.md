@@ -2,7 +2,7 @@
 
 ***Author:*** Wyatt Eng
 
-***Goal:*** This script is designed to identify index swapped records from the 'Unidentified' output files post demultiplexing.
+***Goal:*** This python3 script is designed to identify index swapped records from the 'Unidentified' output files post demultiplexing.
 
 ### Required Input
 - -U1 : The path to a fastq file containing the undetermined reads from R1.
